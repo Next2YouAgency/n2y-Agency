@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html>
+
+  <head>
+	<meta charset="UTF-8">
+	<title>Restaurante</title>
+    <link href="http://s3.amazonaws.com/codecademy-content/courses/ltp/css/shift.css" rel="stylesheet">
+    <link rel="stylesheet" href="http://s3.amazonaws.com/codecademy-content/courses/ltp/css/bootstrap.css">
+    <link rel="stylesheet" href="css/estilo.css">
+    
+  </head>
+
+  <body>
+    <div class="nav">
+      <div class="container">
+        <ul class="pull-left">
+          <li><a href="index.html">Home</a></li>
+          <li><a href="sobre.html">Sobre</a></li>
+        </ul>
+        <ul class="pull-right">
+          <li><a href="cardapio.html">Cardápio</a></li>
+          <li><a href="contato.html">Contato</a></li>
+          <li><a href="mapa.html">Mapa do site</a></li>
+        </ul>
+      </div>
+    </div>
+
+    <div class="jumbotron">
+      <div class="container">
+        <h1>Contato</h1>
+        <p>Lorem ipsum dolor sit amet.</p>
+      </div>
+    </div>
+	
+	<div class="boxes">
+		<div class="container">
+			<div class="row">
+				<div class="col-md-6">
+				<form class="formu" method="post" name="formulario">
+					<legend>Registre-se</legend>
+					<label>
+						<p>Nome:</p>
+							<input type="text" name="nome" placeholder="Digite Aqui" required/>
+					</label>
+					<br/>
+					<label>
+						<p>Email:</p>
+							<input type="text" name="email" placeholder="Digite Aqui" required/>
+					</label>
+					<br/>
+					<label>
+						<p>Senha:</p>
+							<input type="password" name="senha" placeholder="Digite Aqui" required/>
+					</label>
+					<br/>
+					<label>
+						<p>Endereço:</p>
+							<input type="text" name="endereco" placeholder="Digite Aqui" required/>
+					</label>
+					<br/>
+					<label>
+						<p>Telefone:</p>
+							<input type="tel" name="telefone" placeholder="Digite Aqui" required/>
+					</label>
+					<br/>
+					<label>
+						<input type="submit" value="Submit" class="botao"/>
+					</label>
+					<br/>
+				</form>
+				</div>
+				<div class="col-md-6">
+				<form class="formu" method="post" name="formulario">
+					<legend>Entrar</legend>
+					<label>
+						<p>Nome:</p>
+							<input type="text" name="nome" placeholder="Digite Aqui" required/>
+					</label>
+					<br/>
+					<label>
+						<p>Email:</p>
+							<input type="text" name="email" placeholder="Digite Aqui" required/>
+					</label>
+					<br/>
+					<label>
+						<p>Senha:</p>
+							<input type="password" name="senha" placeholder="Digite Aqui" required/>
+					</label>
+					<br/>
+					<label>
+						<p>Pedido:</p>
+							<textarea name="endereco" class="pedido" placeholder="Digite Aqui" required></textarea>
+					</label>
+					<br/>
+					<label>
+						<input type="submit" value="Submit" class="botao"/>
+					</label>
+					<br/>
+				</form>
+				</div>
+			</div>
+		</div>
+	</div>
+	
+	<div class="footer">
+      <div class="container">
+        <p>Restaurante Lorem Ipsum</p>
+      </div>
+    </div>
+  </body>
+</html>

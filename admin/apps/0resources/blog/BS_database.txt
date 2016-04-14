@@ -1,0 +1,17 @@
+DB = N2
+tabelas
+	design	id,titulo,img,conteudo,img1,img2,img3,img4,img5,img6,img7,img8,img9,img10,video_tutorial,autor,facebook,twitter,whats,youtube,linkedin
+	
+	front	id,titulo,img,conteudo,img1,img2,img3,img4,img5,img6,img7,img8,img9,img10,video_tutorial,autor,facebook,twitter,whats,youtube,linkedin
+	
+	back	id,titulo,img,conteudo,img1,img2,img3,img4,img5,img6,img7,img8,img9,img10,video_tutorial,autor,facebook,twitter,whats,youtube,linkedin
+	
+	seo	id,titulo,img,conteudo,img1,img2,img3,img4,img5,img6,img7,img8,img9,img10,video_tutorial,autor,facebook,twitter,whats,youtube,linkedin
+	
+	oop	id,titulo,img,conteudo,img1,img2,img3,img4,img5,img6,img7,img8,img9,img10,video_tutorial,autor,facebook,twitter,whats,youtube,linkedin
+	
+	papo_furado
+	Em definição
+	
+	pedidos_duvidas
+	Em definição

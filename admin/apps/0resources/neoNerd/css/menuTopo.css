@@ -1,0 +1,19 @@
+.menuTopo{
+	width:24%;
+	float:left;
+}
+.menuTopo ul{
+	list-style:none;
+}
+.menuTopo ul a{color:#ddd;text-decoration:none;}
+.menuTopo ul a li{
+	float:left;
+	display:inline-block;
+	width:50%;
+	text-align:center;
+	background:#999;
+	padding:15px 0;
+}
+.menuTopo ul a:hover li{
+	background:#454545;
+}

@@ -1,0 +1,23 @@
+.boxes {
+	background-color:#efefef;
+}
+
+.jumbotron p {
+	text-align:center;
+}
+
+.formu {
+	margin-top:30px;
+	margin-bottom:30px;
+	text-align:center;
+}
+
+.pedido {
+	height:100px;
+}
+
+legend {
+	text-transform:uppercase;
+	font-family: 'Shift', sans-serif;
+	font-weight: 600;
+}

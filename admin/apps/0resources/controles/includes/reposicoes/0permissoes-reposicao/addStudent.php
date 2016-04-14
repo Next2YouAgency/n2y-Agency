@@ -1,0 +1,1 @@
+<img src="img/addStudent.png" alt="Solicitar mai um aluno neste horário" title="Solicitar mais um aluno neste horário" class="img-responsive pull-left">

@@ -1,0 +1,67 @@
+.thumbnail {
+	border:none !important;
+	background-color:#efefef !important;
+}
+
+.thumbnailDoce {
+	background-color:white !important;
+}
+
+.thumbnail img {
+    opacity: 0.8;
+    filter: alpha(opacity=80);
+	transition:0.7s;
+}
+
+.thumbnail img:hover {
+    opacity: 1.0;
+    filter: alpha(opacity=100);
+	transition:0.7s;
+}
+
+.thumbnailDoce img {
+    opacity: 0.8;
+    filter: alpha(opacity=80);
+	transition:0.7s;
+}
+
+.thumbnailDoce img:hover {
+    opacity: 1.0;
+    filter: alpha(opacity=100);
+	transition:0.7s;
+}
+
+.conteudo-cardapio .container {
+	padding-top:30px;
+}
+
+.conteudo-cardapio .container h3 {
+	text-align:center;
+	font-weight:600;
+	text-transform:uppercase;
+	margin-bottom:40px;
+	font-family: 'Shift', sans-serif;
+}
+
+.conteudo-cardapio {
+    background-color:#efefef;
+    border-bottom:1px solid #dbdbdb;
+}
+
+.conteudo-cardapio2 .container {
+	padding-top:30px;
+	margin-bottom:25px;
+}
+
+.conteudo-cardapio2 .container h3 {
+	text-align:center;
+	font-weight:600;
+	text-transform:uppercase;
+	margin-bottom:40px;
+	font-family: 'Shift', sans-serif;
+}
+
+.sobrePizza {
+	text-align:center;
+}
+

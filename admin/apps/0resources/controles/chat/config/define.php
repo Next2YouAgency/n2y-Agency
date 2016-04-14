@@ -1,0 +1,17 @@
+﻿<?php
+//Off-line
+define("HOST","localhost");
+define("USER","root");
+define("PASS","");
+define("BD","allnet");
+define("DSN","mysql:host=".HOST.";dbname=".BD);
+define("TEMPO_LIMITE",1);
+/*
+//On-Line
+define("HOST","sql106.hostgratisbr.ga");
+define("USER","rgtoa_16880849");
+define("PASS","230412");
+define("BD","rgtoa_16880849_books");
+define("DSN","mysql:host=".HOST.";dbname=".BD);
+define("TEMPO_LIMITE",1);
+*/

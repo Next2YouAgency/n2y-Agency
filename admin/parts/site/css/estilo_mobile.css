@@ -1,0 +1,16 @@
+﻿@media (max-device-width:768px){
+	#equipe-tab:before{
+		content:url('../../../img/equipe.png');
+	}
+	#objetivo-tab:before{
+		content:url('../../../img/objetivo.png');
+	}
+}
+@media (min-device-width:1024px){
+	#equipe-tab:before{
+		content:"Equipe";
+	}
+	#objetivo-tab:before{
+		content:"Objetivo";
+	}
+}

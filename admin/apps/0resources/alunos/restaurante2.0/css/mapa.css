@@ -1,0 +1,23 @@
+.conteudo {
+	background-color:#efefef;
+	margin:auto;
+	text-align:center;
+	padding-top:30px;
+	padding-bottom:30px;
+}
+
+.col-md-4 {
+	padding:20px;
+}
+
+.conteudo a:link {
+	text-decoration:none;
+	color:black;
+	transition:0.5s;
+}
+
+.conteudo a:hover {
+	text-decoration:underline;
+	color:#B18904;
+	transition:0.5s;
+}

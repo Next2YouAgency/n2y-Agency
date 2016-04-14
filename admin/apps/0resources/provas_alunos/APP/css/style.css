@@ -1,0 +1,6 @@
+@font-face{
+	font-family:"Century Gothic";
+	src:url('../fonts/GOTHIC.TTF');
+}
+body{font-family:"Century Gothic";color:#333!important;}
+.section-login{ margin-top:15%;padding-top:20px}

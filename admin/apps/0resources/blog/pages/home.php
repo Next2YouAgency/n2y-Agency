@@ -1,0 +1,11 @@
+<?php include 'content/devWeb/chamadaDesign.php';?>
+<?php include 'content/devWeb/chamadaFront.php';?>
+<?php include 'content/devWeb/chamadaBack.php';?>
+<?php include 'content/devWeb/chamadaOOP.php';?>
+<?php include 'content/devWeb/chamadaSEO.php';?>
+<?php include 'content/gest/administracao.php';?>
+<?php include 'content/gest/contabilidade.php';?>
+<?php include 'content/gest/dep_pessoal.php';?>
+<?php include 'content/gest/secretariado.php';?>
+<?php include 'content/chamadaPapoFurdado.php';?>
+<?php include 'content/chamadaPedidos.php';?>

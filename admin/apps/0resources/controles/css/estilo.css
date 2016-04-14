@@ -1,0 +1,14 @@
+#principal{
+	min-height:510px;
+}
+.acaoApostilas{
+	position:absolute;
+	top:150px;
+}
+.footer{
+	height:50px;
+	bottom:0px;
+}
+.footer div{
+	height:100%;
+}

@@ -1,0 +1,1 @@
+<img src="img/ok.png" alt="Concluir" title="Concluir Reposição" class="img-responsive pull-left">
